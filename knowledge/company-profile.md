@@ -6,8 +6,8 @@
 ## Who we are
 - **Oz Refining** is an **independent American mint**. Everything is **made here in America, with no overseas outsourcing**.
 - Website: **ozrefining.com**
-- Business address (required in cold emails): `{{FILL IN — Oz Refining mailing address}}`
-- Related brands: Oz Mint / Oz Bullion (oz-mint.com, ozbullion.com). `{{confirm how Nick wants these referenced — default: don't mention}}`
+- Business address (required in cold emails): **767 S Auto Mall Dr, Ste 6, American Fork, UT 84003**
+- Related brands: Oz Mint / Oz Bullion (oz-mint.com, ozbullion.com). Don't mention them unless Nick asks.
 
 ## Current focus: 1 oz COPPER ROUNDS, wholesale to dealers and resellers
 We sell **1 oz copper rounds** in volume to **coin dealers and other businesses that resell them** (coin shops, bullion dealers, online and live-stream sellers, pawn shops, gift and patriotic stores).
@@ -26,7 +26,7 @@ Positioning, in the approved words: *"an affordable, physical form of real money
 | Payment methods | Electronic check (sent to our designated email), bank wire, or a check mailed to Oz Refining. **No credit card payment link.** |
 | Invoicing | Oz Refining's team sends the invoice and payment instructions after order details are confirmed. |
 | Future runs | Recurring runs *may* happen about every 30 days after Oct 25, 2026. **Not confirmed. Never promise this.** |
-| Custom designs (customer's own logo/art) | `{{FILL IN — does Oz Refining take custom-design copper orders? minimums? die fee?}}`. Until filled in, answer "[confirm with Nick]". |
+| Custom designs (customer's own logo/art) | **Yes, we take custom orders.** Minimums, die/setup fee, pricing and turnaround are quoted by Nick per project. Never quote them; collect the details (see sales-playbook.md) and set up a call. `{{optional: add standard custom minimums/fees here once set}}` |
 
 ## Shipping (from the Oz Refining shipping graphic)
 - **Standard: $30 per box.** One box holds **up to 500 copper rounds**.
@@ -35,7 +35,7 @@ Positioning, in the approved words: *"an affordable, physical form of real money
 - **Free standard shipping on orders of 2,000 rounds or more.**
 - Secure packaging.
 - Anything outside these terms (expedited, international, pallets, splitting boxes, unusual destinations) → "Freight will be confirmed before you make payment" and escalate. **Dallin** handles shipping details.
-- Note: the older Sales FAQ says freight is calculated per order. The shipping graphic is the newer published policy. `{{Nick: confirm the graphic is the current policy}}`
+- **This shipping graphic is the current, approved policy.** It replaces the older FAQ line that said freight was quoted per order.
 
 ## Available designs: 19 designs, dies already made
 Obverse/reverse pairings are shown on the design sheet. Offer only these designs:
@@ -65,17 +65,19 @@ Recurring 30/60/90-day buyers *could potentially* get priority access to future 
 
 ## Sender identity
 - **Nick Thurgood, Sales Representative, Oz Refining**
-- Email: `{{FILL IN — Nick's email}}` · Phone/text: `{{FILL IN}}`
+- Email: `{{FILL IN — Nick's email}}`
+- Phone: **no public number.** Never publish one. Nick calls buyers, so always ask for *their* number and a good time to call.
 - Signature:
 ```
 Nick Thurgood
 Sales Representative | Oz Refining
 American-made copper rounds
-{{Phone}} · {{Email}} · ozrefining.com
+{{Email}} · ozrefining.com
+767 S Auto Mall Dr, Ste 6, American Fork, UT 84003
 ```
 
 ## Primary call to action
-**Tell us your quantity**: comment, DM, text or reply with how many rounds you want. Then **move them to a phone call with Nick** (get their phone number and a good time to call).
+**Tell us your quantity** (or your custom idea): comment, DM or reply with how many rounds you want. Then **move them to a phone call with Nick** (get their phone number and a good time to call).
 
 ## Internal team (for escalations; never name them to customers unless needed)
 - **Nick Thurgood**: sales
@@ -83,4 +85,4 @@ American-made copper rounds
 - **Oz Refining team**: invoicing and payment (they use Katana for inventory and orders; bots never touch it)
 
 ## Social accounts (connected through Zernio)
-`{{FILL IN — handle for each: Facebook page, Instagram, X, TikTok, YouTube, LinkedIn, Threads, Pinterest, etc.}}`
+Accounts are still being created. `{{FILL IN — handle for each platform once created}}`. Until then, Hype writes drafts per platform and Nick posts them once the accounts exist.

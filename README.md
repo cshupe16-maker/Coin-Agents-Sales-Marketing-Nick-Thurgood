@@ -37,12 +37,10 @@ scripts/build.py   Regenerates ready-to-paste/ after you edit agents/ or knowled
 
 ## Setup checklist
 1. **Fill in the blanks.** Search the repo for `{{FILL IN` and complete them. The most important ones are in `knowledge/company-profile.md`:
-   - [ ] Oz Refining mailing address (legally required in cold emails)
-   - [ ] Nick's email and phone
+   - [ ] Nick's email
    - [ ] Google Drive link to the design sheet and product photos
-   - [ ] Whether custom-design orders are offered, and on what terms
-   - [ ] Confirm the shipping graphic is the current policy (the older FAQ says freight is quoted per order)
-   - [ ] Social handles connected in Zernio
+   - [ ] Social handles, once the accounts are created and connected in Zernio
+   - [ ] (Optional) standard custom-order minimums and fees, so bots can mention them
    - [ ] Escalation threshold (`rules-and-compliance.md`) and Higgsfield weekly credit budget (`agents/03`)
 2. Run `python3 scripts/build.py` to refresh `ready-to-paste/`.
 3. **Create the Google Sheet** "Oz Refining Growth Hub" with the 10 tabs in `templates/google-sheet-setup.md`, then **fill in the `Customers` tab with your first-run buyers** so Closer can prep reorder calls.

@@ -64,8 +64,8 @@ Blocked / needs access: …
 ## Who we are
 - **Oz Refining** is an **independent American mint**. Everything is **made here in America, with no overseas outsourcing**.
 - Website: **ozrefining.com**
-- Business address (required in cold emails): `{{FILL IN — Oz Refining mailing address}}`
-- Related brands: Oz Mint / Oz Bullion (oz-mint.com, ozbullion.com). `{{confirm how Nick wants these referenced — default: don't mention}}`
+- Business address (required in cold emails): **767 S Auto Mall Dr, Ste 6, American Fork, UT 84003**
+- Related brands: Oz Mint / Oz Bullion (oz-mint.com, ozbullion.com). Don't mention them unless Nick asks.
 
 ## Current focus: 1 oz COPPER ROUNDS, wholesale to dealers and resellers
 We sell **1 oz copper rounds** in volume to **coin dealers and other businesses that resell them** (coin shops, bullion dealers, online and live-stream sellers, pawn shops, gift and patriotic stores).
@@ -84,7 +84,7 @@ Positioning, in the approved words: *"an affordable, physical form of real money
 | Payment methods | Electronic check (sent to our designated email), bank wire, or a check mailed to Oz Refining. **No credit card payment link.** |
 | Invoicing | Oz Refining's team sends the invoice and payment instructions after order details are confirmed. |
 | Future runs | Recurring runs *may* happen about every 30 days after Oct 25, 2026. **Not confirmed. Never promise this.** |
-| Custom designs (customer's own logo/art) | `{{FILL IN — does Oz Refining take custom-design copper orders? minimums? die fee?}}`. Until filled in, answer "[confirm with Nick]". |
+| Custom designs (customer's own logo/art) | **Yes, we take custom orders.** Minimums, die/setup fee, pricing and turnaround are quoted by Nick per project. Never quote them; collect the details (see sales-playbook.md) and set up a call. `{{optional: add standard custom minimums/fees here once set}}` |
 
 ## Shipping (from the Oz Refining shipping graphic)
 - **Standard: $30 per box.** One box holds **up to 500 copper rounds**.
@@ -93,7 +93,7 @@ Positioning, in the approved words: *"an affordable, physical form of real money
 - **Free standard shipping on orders of 2,000 rounds or more.**
 - Secure packaging.
 - Anything outside these terms (expedited, international, pallets, splitting boxes, unusual destinations) → "Freight will be confirmed before you make payment" and escalate. **Dallin** handles shipping details.
-- Note: the older Sales FAQ says freight is calculated per order. The shipping graphic is the newer published policy. `{{Nick: confirm the graphic is the current policy}}`
+- **This shipping graphic is the current, approved policy.** It replaces the older FAQ line that said freight was quoted per order.
 
 ## Available designs: 19 designs, dies already made
 Obverse/reverse pairings are shown on the design sheet. Offer only these designs:
@@ -123,17 +123,19 @@ Recurring 30/60/90-day buyers *could potentially* get priority access to future 
 
 ## Sender identity
 - **Nick Thurgood, Sales Representative, Oz Refining**
-- Email: `{{FILL IN — Nick's email}}` · Phone/text: `{{FILL IN}}`
+- Email: `{{FILL IN — Nick's email}}`
+- Phone: **no public number.** Never publish one. Nick calls buyers, so always ask for *their* number and a good time to call.
 - Signature:
 ```
 Nick Thurgood
 Sales Representative | Oz Refining
 American-made copper rounds
-{{Phone}} · {{Email}} · ozrefining.com
+{{Email}} · ozrefining.com
+767 S Auto Mall Dr, Ste 6, American Fork, UT 84003
 ```
 
 ## Primary call to action
-**Tell us your quantity**: comment, DM, text or reply with how many rounds you want. Then **move them to a phone call with Nick** (get their phone number and a good time to call).
+**Tell us your quantity** (or your custom idea): comment, DM or reply with how many rounds you want. Then **move them to a phone call with Nick** (get their phone number and a good time to call).
 
 ## Internal team (for escalations; never name them to customers unless needed)
 - **Nick Thurgood**: sales
@@ -141,7 +143,7 @@ American-made copper rounds
 - **Oz Refining team**: invoicing and payment (they use Katana for inventory and orders; bots never touch it)
 
 ## Social accounts (connected through Zernio)
-`{{FILL IN — handle for each: Facebook page, Instagram, X, TikTok, YouTube, LinkedIn, Threads, Pinterest, etc.}}`
+Accounts are still being created. `{{FILL IN — handle for each platform once created}}`. Until then, Hype writes drafts per platform and Nick posts them once the accounts exist.
 
 ---
 
@@ -216,6 +218,7 @@ Focus: **business owners who can buy 500 to 10,000+ copper rounds and resell the
 | Gift, souvenir & tourist shops (historic sites, pirate/beach towns) | Black Beard, Kraken, Mermaid, Buffalo, Founding Fathers |
 | Hobby, collectibles, card & comic shops | Collectible, kids' entry item |
 | Homeschool co-ops, educational retailers, Scout suppliers | Educational piece for children |
+| **Custom-order buyers**: dealers wanting an exclusive design, businesses, events, clubs, churches, schools, veteran groups, brands | Their own design struck in copper (we take custom orders; Nick quotes each project) |
 
 ## Lead scoring (1–10) — used by Lead Research and Sales Outreach bots
 Add points:
@@ -307,6 +310,12 @@ Confirm and record: customer and business name, email, phone, billing and shippi
 
 **Best practice:** respond quickly to comments and DMs, collect the buyer's phone number and preferred call time, and move qualified interest to a phone call.
 
+## Custom orders
+We take custom orders. Bots **never quote** custom minimums, die fees, pricing or turnaround. Collect and log:
+design idea or artwork (do they own the rights?), quantity, size and metal (copper focus), one or two sided, in-hand date, ship-to city and state, and the best phone number and time for Nick to call. Then say:
+> "Love it. We take custom orders. Nick will put together pricing and timing for your design. What's the best number and time for a quick call?"
+Flag designs using other companies' logos, sports leagues, celebrities, or real government coins for Nick. Don't promise them.
+
 ## What to record for every conversation (Google Sheet)
 Condition and satisfaction with the first order · original quantity · estimated quantity remaining · customer's retail price · estimated sales per month · next soft-commitment quantity · preferred design · expected price and freight · October 2026 confirmation date · reorder class (30/60/90) · exact objections, competitor info and feedback · what perks would make recurring orders valuable to them.
 *A future rep should be able to read the notes and know exactly what happened, what was promised, what is still unconfirmed, and when to follow up.*
@@ -352,7 +361,9 @@ Condition and satisfaction with the first order · original quantity · estimate
 - Follow each platform's spam rules: no mass identical DMs, no identical posts across many Facebook groups at once (vary the copy, respect group rules, and ask admins where required).
 - Giveaways need official rules and "no purchase necessary". Flag them for Nick; never launch one.
 - Use only music, footage and images we have rights to: Oz Refining product photos, our own footage, Higgsfield output, and licensed platform audio.
-- **No AI-generated likeness of real people** (including Trump or any public figure) in video or images. Show the Trump-series rounds using **real product photos** only.
+- **Trump-series (and all) coin visuals start from real Oz Refining product photos.** Higgsfield may turn those photos into 3D animations (spins, flips, reveals, 3D models, cinematic scenes), as long as the coin design stays exactly as photographed.
+- Never generate a standalone AI person or likeness of a real person (Trump, other public figures, service members) outside the coin itself, and never invent new coin designs.
+- Captions don't need to say the video is animated or made with AI. Only turn on a platform's AI-content label when that platform's rules require it.
 - Don't use official military seals, logos or trademarks beyond showing the actual products. Never imply endorsement by the U.S. military or any government.
 - Political designs are products, not opinions. Don't argue politics in drafts, replies or captions.
 

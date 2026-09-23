@@ -22,6 +22,7 @@ Focus: **business owners who can buy 500 to 10,000+ copper rounds and resell the
 | Gift, souvenir & tourist shops (historic sites, pirate/beach towns) | Black Beard, Kraken, Mermaid, Buffalo, Founding Fathers |
 | Hobby, collectibles, card & comic shops | Collectible, kids' entry item |
 | Homeschool co-ops, educational retailers, Scout suppliers | Educational piece for children |
+| **Custom-order buyers**: dealers wanting an exclusive design, businesses, events, clubs, churches, schools, veteran groups, brands | Their own design struck in copper (we take custom orders; Nick quotes each project) |
 
 ## Lead scoring (1–10) — used by Lead Research and Sales Outreach bots
 Add points:

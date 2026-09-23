@@ -70,6 +70,12 @@ Confirm and record: customer and business name, email, phone, billing and shippi
 
 **Best practice:** respond quickly to comments and DMs, collect the buyer's phone number and preferred call time, and move qualified interest to a phone call.
 
+## Custom orders
+We take custom orders. Bots **never quote** custom minimums, die fees, pricing or turnaround. Collect and log:
+design idea or artwork (do they own the rights?), quantity, size and metal (copper focus), one or two sided, in-hand date, ship-to city and state, and the best phone number and time for Nick to call. Then say:
+> "Love it. We take custom orders. Nick will put together pricing and timing for your design. What's the best number and time for a quick call?"
+Flag designs using other companies' logos, sports leagues, celebrities, or real government coins for Nick. Don't promise them.
+
 ## What to record for every conversation (Google Sheet)
 Condition and satisfaction with the first order · original quantity · estimated quantity remaining · customer's retail price · estimated sales per month · next soft-commitment quantity · preferred design · expected price and freight · October 2026 confirmation date · reorder class (30/60/90) · exact objections, competitor info and feedback · what perks would make recurring orders valuable to them.
 *A future rep should be able to read the notes and know exactly what happened, what was promised, what is still unconfirmed, and when to follow up.*

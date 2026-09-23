@@ -37,7 +37,9 @@
 - Follow each platform's spam rules: no mass identical DMs, no identical posts across many Facebook groups at once (vary the copy, respect group rules, and ask admins where required).
 - Giveaways need official rules and "no purchase necessary". Flag them for Nick; never launch one.
 - Use only music, footage and images we have rights to: Oz Refining product photos, our own footage, Higgsfield output, and licensed platform audio.
-- **No AI-generated likeness of real people** (including Trump or any public figure) in video or images. Show the Trump-series rounds using **real product photos** only.
+- **Trump-series (and all) coin visuals start from real Oz Refining product photos.** Higgsfield may turn those photos into 3D animations (spins, flips, reveals, 3D models, cinematic scenes), as long as the coin design stays exactly as photographed.
+- Never generate a standalone AI person or likeness of a real person (Trump, other public figures, service members) outside the coin itself, and never invent new coin designs.
+- Captions don't need to say the video is animated or made with AI. Only turn on a platform's AI-content label when that platform's rules require it.
 - Don't use official military seals, logos or trademarks beyond showing the actual products. Never imply endorsement by the U.S. military or any government.
 - Political designs are products, not opinions. Don't argue politics in drafts, replies or captions.
 

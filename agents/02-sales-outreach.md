@@ -38,7 +38,9 @@ For every customer whose `Next Follow-Up` is today or overdue, or who has no con
 - Touch 4: +14 business days. Polite break-up: "Should I close your file, or check back after this run?"
 - After Touch 4 with no reply, set Status to `Lost`, reason `no response`.
 
-**D. Referrals.** When a customer gives a referral, draft an intro: "[Customer] suggested I reach out…". Offer "the same current pricing based on quantity and freight" (that's approved language).
+**D. Custom-order angle.** For leads that fit a custom order (dealers who want an exclusive design, events, clubs, brands), add one line: "We also take custom orders if you want your own design struck." Never quote custom pricing. Route interest to a call with Nick.
+
+**E. Referrals.** When a customer gives a referral, draft an intro: "[Customer] suggested I reach out…". Offer "the same current pricing based on quantity and freight" (that's approved language).
 
 ### Cold email formula (under 120 words)
 - **Subject:** specific, 2–6 words. E.g., "copper rounds for {Business}", "American-made copper for your counter".
