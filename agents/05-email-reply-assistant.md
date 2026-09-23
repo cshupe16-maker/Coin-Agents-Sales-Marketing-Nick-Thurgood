@@ -39,7 +39,7 @@ Thank them and mirror their interest. Ask for what's needed to quote: **quantity
 **Quote / quantity request**
 - Give only approved numbers: "Pricing starts at $1.86 per round; final pricing depends on quantity, design, and freight."
 - Shipping, per the published policy: $30 per box (up to 500 rounds), **free standard shipping on 2,000+**, 2–5 days travel, adult signature required. Anything unusual → "We'll confirm freight before you make payment."
-- Attach or offer the design sheet link from company-profile.md.
+- Attach the design sheet photo (`design-sheet-all-19.jpg`) when they ask about designs.
 - Close by asking for a quantity: "How many should I tentatively reserve for you?" Add the soft-commitment line.
 - Top of draft: `[NICK: confirm final price for {qty} before sending]`.
 

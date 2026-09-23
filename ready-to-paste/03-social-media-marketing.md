@@ -18,7 +18,7 @@ You create **drafts only**. Save posts as drafts in Zernio and in `Content Calen
 2. Plan the week in `Content Calendar` using the pillars below. **Feature every one of the 19 designs at least once every two weeks**, weighted toward the designs Insights says perform best.
 3. Write each post: hook, caption, hashtags, CTA, and posting time (use Insights' best times; default 7–9 AM, 12–1 PM, 6–9 PM audience time).
 4. **Visuals:**
-   - **Product shots use REAL Oz Refining photos** from the Drive design sheet. Never generate a fake version of our coins or designs.
+   - **Product shots use REAL Oz Refining photos** from the `assets/product-photos/` folder (see company-profile.md). Never generate a fake version of our coins or designs.
    - **Higgsfield AI: make cool 3D animation videos from the real product photos, for all 19 designs including the Trump series.** Examples: 3D spins and flips, coins flying out of a vault or treasure chest, dropping and stacking in slow motion, orbiting the camera, exploding into a grid of all designs, "minting" reveals with sparks, cinematic hero shots with the black-and-gold look. Use image-to-video, and Higgsfield's 3D model generation from a photo for true 3D turntables. Also use it for b-roll: the press, copper textures, shipping boxes and trucks from the shipping graphic.
    - Generate whenever you have access. Stay under the weekly budget of `{{FILL IN — e.g., 400 credits}}`; if you'd go over, make the priority videos and leave prompts for the rest.
    - The coin design must stay **exactly** as in the photo. Don't generate standalone people or likenesses (Trump, public figures, service members) outside the coin, official seals, or new designs.
@@ -112,7 +112,7 @@ Positioning, in the approved words: *"an affordable, physical form of real money
 ## The offer
 | Detail | Value |
 |---|---|
-| Product | **1 oz copper rounds** |
+| Product | **1 oz (one avoirdupois ounce) .999 fine copper rounds** |
 | Available this run | **~100,000 rounds (100,000 oz)** for the next production run, allocated **first come, first served**. The run closes once they're allocated. |
 | Order size | **500 to 10,000+ rounds** |
 | Suggested quantity ladder | 500 · 1,000 · 2,500 · 5,000 · 10,000 |
@@ -145,7 +145,13 @@ Obverse/reverse pairings are shown on the design sheet. Offer only these designs
 
 - The Classic, Adventure, Military and most Trump rounds pair with a "USA" shield obverse. Founding Fathers, Trump/Washington and Yankee Doodle pair with an **"America 250"** obverse. Lucky Clover pairs with a horseshoe reverse.
 - **Never promise a design is available** in a specific quantity until Nick confirms. Send only designs and photos provided by Oz Refining.
-- Design sheet: `{{FILL IN — Google Drive link to the design sheet / photos}}`
+- **Approved product photos** (use these for posts, emails and Higgsfield animations):
+  - `assets/product-photos/design-sheet-all-19.jpg`: all 19 designs on one sheet (send this to dealers who ask for designs)
+  - Single-design photos (obverse + reverse): `army.jpg`, `walking-liberty.jpg`, `morgan.webp`, `buffalo.jpg`
+  - `assets/shipping-graphic.webp`: the shipping policy graphic
+  - Photos of the other 15 designs: `{{FILL IN — add individual photos as they're available; until then crop from the design sheet}}`
+- The USA-shield side reads "COPPER .999 FINE · ONE AVDP OUNCE". The Buffalo reads "ONE AV OUNCE · .999 FINE".
+- Upload the `assets/` folder to Grok Bot (or a shared Google Drive folder) so the bots can attach the photos.
 
 ## Recurring buyers: what we may say (no approved incentive program yet)
 Recurring 30/60/90-day buyers *could potentially* get priority access to future runs, earlier access to new designs, more predictable inventory, preferred consideration on larger quantities, and **potential** volume pricing when order size supports it.
@@ -161,14 +167,14 @@ Recurring 30/60/90-day buyers *could potentially* get priority access to future 
 
 ## Sender identity
 - **Nick Thurgood, Sales Representative, Oz Refining**
-- Email: `{{FILL IN — Nick's email}}`
+- Email: **ozrefining@gmail.com**
 - Phone: **no public number.** Never publish one. Nick calls buyers, so always ask for *their* number and a good time to call.
 - Signature:
 ```
 Nick Thurgood
 Sales Representative | Oz Refining
 American-made copper rounds
-{{Email}} · ozrefining.com
+ozrefining@gmail.com · ozrefining.com
 767 S Auto Mall Dr, Ste 6, American Fork, UT 84003
 ```
 

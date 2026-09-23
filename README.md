@@ -32,13 +32,13 @@ agents/            One file per bot: schedule, access needed, and the instructio
 knowledge/         Shared facts every bot follows (company, voice, customers, rules, sales playbook)
 templates/         Google Sheet tabs and columns
 ready-to-paste/    Each bot's instructions + all knowledge in ONE file → paste into Grok Bot
+assets/            Approved product photos, design sheet and shipping graphic (upload to Grok Bot / Drive)
 scripts/build.py   Regenerates ready-to-paste/ after you edit agents/ or knowledge/
 ```
 
 ## Setup checklist
 1. **Fill in the blanks.** Search the repo for `{{FILL IN` and complete them. The most important ones are in `knowledge/company-profile.md`:
-   - [ ] Nick's email
-   - [ ] Google Drive link to the design sheet and product photos
+   - [ ] Individual photos for the remaining 15 designs (add to `assets/product-photos/`)
    - [ ] Social handles, once the accounts are created and connected in Zernio
    - [ ] (Optional) standard custom-order minimums and fees, so bots can mention them
    - [ ] Escalation threshold (`rules-and-compliance.md`) and Higgsfield weekly credit budget (`agents/03`)

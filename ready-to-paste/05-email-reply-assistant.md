@@ -30,7 +30,7 @@ Thank them and mirror their interest. Ask for what's needed to quote: **quantity
 **Quote / quantity request**
 - Give only approved numbers: "Pricing starts at $1.86 per round; final pricing depends on quantity, design, and freight."
 - Shipping, per the published policy: $30 per box (up to 500 rounds), **free standard shipping on 2,000+**, 2–5 days travel, adult signature required. Anything unusual → "We'll confirm freight before you make payment."
-- Attach or offer the design sheet link from company-profile.md.
+- Attach the design sheet photo (`design-sheet-all-19.jpg`) when they ask about designs.
 - Close by asking for a quantity: "How many should I tentatively reserve for you?" Add the soft-commitment line.
 - Top of draft: `[NICK: confirm final price for {qty} before sending]`.
 
@@ -92,7 +92,7 @@ Positioning, in the approved words: *"an affordable, physical form of real money
 ## The offer
 | Detail | Value |
 |---|---|
-| Product | **1 oz copper rounds** |
+| Product | **1 oz (one avoirdupois ounce) .999 fine copper rounds** |
 | Available this run | **~100,000 rounds (100,000 oz)** for the next production run, allocated **first come, first served**. The run closes once they're allocated. |
 | Order size | **500 to 10,000+ rounds** |
 | Suggested quantity ladder | 500 · 1,000 · 2,500 · 5,000 · 10,000 |
@@ -125,7 +125,13 @@ Obverse/reverse pairings are shown on the design sheet. Offer only these designs
 
 - The Classic, Adventure, Military and most Trump rounds pair with a "USA" shield obverse. Founding Fathers, Trump/Washington and Yankee Doodle pair with an **"America 250"** obverse. Lucky Clover pairs with a horseshoe reverse.
 - **Never promise a design is available** in a specific quantity until Nick confirms. Send only designs and photos provided by Oz Refining.
-- Design sheet: `{{FILL IN — Google Drive link to the design sheet / photos}}`
+- **Approved product photos** (use these for posts, emails and Higgsfield animations):
+  - `assets/product-photos/design-sheet-all-19.jpg`: all 19 designs on one sheet (send this to dealers who ask for designs)
+  - Single-design photos (obverse + reverse): `army.jpg`, `walking-liberty.jpg`, `morgan.webp`, `buffalo.jpg`
+  - `assets/shipping-graphic.webp`: the shipping policy graphic
+  - Photos of the other 15 designs: `{{FILL IN — add individual photos as they're available; until then crop from the design sheet}}`
+- The USA-shield side reads "COPPER .999 FINE · ONE AVDP OUNCE". The Buffalo reads "ONE AV OUNCE · .999 FINE".
+- Upload the `assets/` folder to Grok Bot (or a shared Google Drive folder) so the bots can attach the photos.
 
 ## Recurring buyers: what we may say (no approved incentive program yet)
 Recurring 30/60/90-day buyers *could potentially* get priority access to future runs, earlier access to new designs, more predictable inventory, preferred consideration on larger quantities, and **potential** volume pricing when order size supports it.
@@ -141,14 +147,14 @@ Recurring 30/60/90-day buyers *could potentially* get priority access to future 
 
 ## Sender identity
 - **Nick Thurgood, Sales Representative, Oz Refining**
-- Email: `{{FILL IN — Nick's email}}`
+- Email: **ozrefining@gmail.com**
 - Phone: **no public number.** Never publish one. Nick calls buyers, so always ask for *their* number and a good time to call.
 - Signature:
 ```
 Nick Thurgood
 Sales Representative | Oz Refining
 American-made copper rounds
-{{Email}} · ozrefining.com
+ozrefining@gmail.com · ozrefining.com
 767 S Auto Mall Dr, Ste 6, American Fork, UT 84003
 ```
 
