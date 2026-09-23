@@ -9,6 +9,7 @@ KNOWLEDGE = [
     "company-profile.md",
     "brand-voice.md",
     "ideal-customers.md",
+    "sales-playbook.md",
     "rules-and-compliance.md",
 ]
 MARKER = "## Instructions (paste into Grok Bot)"

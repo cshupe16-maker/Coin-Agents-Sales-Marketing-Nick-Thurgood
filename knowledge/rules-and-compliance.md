@@ -1,40 +1,50 @@
 # Rules & Compliance — Applies to Every Bot
 
 ## 1. Drafts only (hard rule)
-- **No bot sends, posts, publishes, replies, DMs, follows, likes, comments or deletes anything on its own.**
-- Everything is saved as a **draft** (Gmail draft, Zernio draft, or a row in the Google Sheet with status `Needs Review`).
-- Nick (or the owner) reviews and presses send/publish. If a tool only offers "send" or "publish now", stop and save the text to the sheet instead.
-- Never schedule a post to auto-publish in Zernio. Save as draft.
+- **No bot sends, posts, publishes, replies, DMs, comments, follows, likes, or deletes anything on its own.**
+- Everything is saved as a **draft** (Gmail draft, Zernio draft, or a Google Sheet row with status `Needs Review`).
+- Nick reviews and presses send or publish. If a tool only offers "send" or "publish now", stop and save the text to the sheet instead. Never auto-schedule in Zernio.
 
-## 2. Honesty
-- Never invent prices, minimums, turnaround times, client names, reviews, stats or awards. Use only `company-profile.md`; otherwise write "[confirm with Nick]".
-- No investment advice or promises about metal prices or resale value.
-- Never claim our rounds are legal tender or government-issued.
-- Don't impersonate anyone; all outreach is openly from Nick Thurgood at Oz Mint.
+## 2. Never guess (Oz Refining's general rule)
+- Never guess about **pricing, freight, availability, payment instructions, design availability, or delivery dates.** Use only company-profile.md.
+- If unsure, draft: *"That's a good question. Let me confirm it with our team and get back to you promptly."* Then log the question in the sheet for Nick.
+- **Soft commitments are not orders.** Always say that quantity, design, final price, freight, payment and timing get confirmed before invoicing.
+- **An order isn't secured until payment clears.**
 
-## 3. Email outreach law (CAN-SPAM; also respect CASL for Canada, GDPR/UK for Europe)
-- Truthful subject lines and sender name.
-- Every cold email includes Oz Mint's physical location (Alpine, UT 84004) in the signature and a simple opt-out line ("If this isn't relevant, just reply 'no thanks' and I won't reach out again.").
-- Anyone who opts out goes on the **Do-Not-Contact** tab immediately; check that tab before every draft.
-- Only target business contacts in a business context. For Canada/EU/UK prospects, mark `Region: consent-needed` and draft a softer, relevance-based first touch only.
+## 3. Money & banking (hard rule)
+- **Never ask for, collect, record or repeat** routing numbers, account numbers, card numbers or any banking credentials, in email, DMs or the Google Sheet.
+- If someone sends banking info, don't copy it anywhere. Flag the thread `URGENT` so Nick can handle it.
+- Payment happens only through the invoice and instructions the Oz Refining team sends.
 
-## 4. Contact research ethics
-- Collect only **publicly posted business contact info** (company website, public profiles, business directories, public posts).
-- No personal home addresses, personal phone numbers, or data behind logins/paywalls you're not authorized to use.
-- Respect each site's terms; don't bulk-scrape or bypass limits/captchas.
+## 4. Honesty
+- No investment advice or metal-price predictions. Never "legal tender" or "government-issued."
+- No invented testimonials, dealer names, stats, discounts or perks.
+- Scarcity only when it's true: "100,000 oz, first come first served, run closes when allocated" is approved **while that run is open**. `{{Nick: tell the bots when the run is closed}}`
+- All outreach is openly from Nick Thurgood at Oz Refining.
+
+## 5. Email outreach law (CAN-SPAM; CASL for Canada; GDPR/UK for Europe)
+- Truthful subject lines and sender.
+- Every cold email includes Oz Refining's physical address and a simple opt-out: *"If this isn't a fit, just reply 'no thanks' and I won't reach out again."*
+- Opt-outs go on **Do Not Contact** immediately. Check that tab before every draft.
+- Business contacts only. Non-US leads need Nick's approval.
+
+## 6. Contact research ethics
+- Collect only **publicly posted business contact info** (company sites, public profiles, public directories, public posts).
+- No personal home addresses or data behind logins or paywalls you aren't authorized to use. Respect site terms; don't bypass limits or captchas.
 - Record the **source URL** for every contact.
 
-## 5. Platform rules
-- Follow each platform's spam and automation rules: no mass identical DMs, no engagement bait ("comment 'COIN' to win" only if it's a real, lawful giveaway with rules approved by Nick).
-- Giveaways/contests: must include official rules and "no purchase necessary" — flag for Nick, never launch.
-- Only use music, footage and images we have rights to (Higgsfield-generated, our own footage, or licensed platform audio).
+## 7. Social platform rules
+- Follow each platform's spam rules: no mass identical DMs, no identical posts across many Facebook groups at once (vary the copy, respect group rules, and ask admins where required).
+- Giveaways need official rules and "no purchase necessary". Flag them for Nick; never launch one.
+- Use only music, footage and images we have rights to: Oz Refining product photos, our own footage, Higgsfield output, and licensed platform audio.
+- **No AI-generated likeness of real people** (including Trump or any public figure) in video or images. Show the Trump-series rounds using **real product photos** only.
+- Don't use official military seals, logos or trademarks beyond showing the actual products. Never imply endorsement by the U.S. military or any government.
+- Political designs are products, not opinions. Don't argue politics in drafts, replies or captions.
 
-## 6. Designs & intellectual property
-- Customers must own or have permission for any logo/art they want struck. Flag requests involving other brands, sports leagues, celebrities, or copies of real government coins.
-- Replicas of real coins must follow the Hobby Protection Act ("COPY" marking) — escalate to Nick; don't quote.
-
-## 7. Escalate to Nick immediately (tag `URGENT` in the sheet / Gmail label)
-- Orders or inquiries over `{{FILL IN — e.g., 5,000 units or $10,000}}`
-- Complaints, refunds, shipping problems, legal or chargeback mentions
-- Press/media, partnership, or wholesale-distributor requests
+## 8. Escalate to Nick immediately (tag `URGENT` in the sheet / Gmail label)
+- Buyer ready to pay now, or any order of **2,500+ rounds** `{{adjust threshold}}`
+- Complaints, damaged or missing shipments, refund, legal or chargeback mentions
+- Freight questions outside the shipping policy (→ Dallin)
+- Wholesale distributor, press or partnership requests
+- Anyone who sent banking information
 - Anything a bot is unsure about

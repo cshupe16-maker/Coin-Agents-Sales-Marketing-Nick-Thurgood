@@ -1,60 +1,86 @@
-# Company Profile — Oz Bullion / Oz Mint
+# Company Profile — Oz Refining
 
-> Shared knowledge for every bot. Anything marked `{{FILL IN}}` must be completed before launch.
-> Bots must NEVER invent a value for a `{{FILL IN}}` field — if it is still blank, write "[confirm with Nick]" instead.
+> Shared knowledge for every bot. Source: Oz Refining's internal Sales Playbook, Sales FAQ, Approved Social Outreach Copy, Design Sheet and Shipping graphic.
+> Anything marked `{{FILL IN}}` must be completed before launch. Bots must NEVER invent a value. If something isn't in this file, write "[confirm with Nick]".
 
 ## Who we are
-- **Oz Mint** — a private mint in **Alpine, Utah, USA** that strikes investment-grade silver, gold and **copper** rounds **in-house**.
-- **Oz Bullion** (ozbullion.com) — the retail storefront for Oz Mint products plus bullion and collectibles.
-- Websites: https://oz-mint.com · https://ozbullion.com
-- Company phone: 801-709-1042 · Company email: info@oz-mint.com
-- Sizes we mint: **1 oz, 1/2 oz and 1/10 oz** rounds.
+- **Oz Refining** is an **independent American mint**. Everything is **made here in America, with no overseas outsourcing**.
+- Website: **ozrefining.com**
+- Business address (required in cold emails): `{{FILL IN — Oz Refining mailing address}}`
+- Related brands: Oz Mint / Oz Bullion (oz-mint.com, ozbullion.com). `{{confirm how Nick wants these referenced — default: don't mention}}`
 
-## Current focus: CUSTOM COPPER
-Right now every bot prioritizes **custom copper coins/rounds sold in large quantities** to businesses and business owners.
-Silver and gold custom work exists — mention it only as an upsell ("we also strike this in .999 silver/gold") or when a prospect asks.
+## Current focus: 1 oz COPPER ROUNDS, wholesale to dealers and resellers
+We sell **1 oz copper rounds** in volume to **coin dealers and other businesses that resell them** (coin shops, bullion dealers, online and live-stream sellers, pawn shops, gift and patriotic stores).
+Positioning, in the approved words: *"an affordable, physical form of real money that coin dealers can place into the hands of collectors, children, new stackers, and everyday customers."*
 
-## The offer (what we sell)
-- Custom-designed copper rounds with the customer's logo, artwork, message or brand — struck in Utah.
-- Stock copper rounds (e.g., the 1 oz "Lucky Monkey" copper round) for resellers and gifting.
-- Bulk / wholesale runs for businesses, events, promotions, and resale.
-
+## The offer
 | Detail | Value |
 |---|---|
-| Copper purity / weight | `{{FILL IN — e.g., 1 oz .999 fine copper}}` |
-| Minimum order (custom copper) | `{{FILL IN}}` |
-| Price tiers (custom copper) | `{{FILL IN — e.g., 500 / 1,000 / 5,000 / 10,000+ units}}` |
-| Design / die fee | `{{FILL IN}}` |
-| Typical turnaround | `{{FILL IN}}` |
-| Finishes / options (antiqued, proof-like, edge, packaging, capsules) | `{{FILL IN}}` |
-| Payment terms for large orders | Wire transfer or cash for large orders (per oz-mint.com); `{{confirm}}` |
-| Shipping | `{{FILL IN}}` |
+| Product | **1 oz copper rounds** |
+| Available this run | **~100,000 rounds (100,000 oz)** for the next production run, allocated **first come, first served**. The run closes once they're allocated. |
+| Order size | **500 to 10,000+ rounds** |
+| Suggested quantity ladder | 500 · 1,000 · 2,500 · 5,000 · 10,000 |
+| Price | **Starts at $1.86 per round.** Final price depends on **quantity, design and freight.** Never quote a lower number. |
+| Payment timing (current run) | **No payment needed until near the end of October 2026.** |
+| Delivery | **About 2–3 weeks after payment clears** (estimate; confirmed before invoicing) |
+| Payment methods | Electronic check (sent to our designated email), bank wire, or a check mailed to Oz Refining. **No credit card payment link.** |
+| Invoicing | Oz Refining's team sends the invoice and payment instructions after order details are confirmed. |
+| Future runs | Recurring runs *may* happen about every 30 days after Oct 25, 2026. **Not confirmed. Never promise this.** |
+| Custom designs (customer's own logo/art) | `{{FILL IN — does Oz Refining take custom-design copper orders? minimums? die fee?}}`. Until filled in, answer "[confirm with Nick]". |
 
-## Why buy from us (proof points — only use ones that are true)
-- Minted **in-house in the USA (Utah)** — not a reseller or overseas broker.
-- A real mint that already produces investment-grade silver, gold and copper.
-- Physical, heavy, collectible — people keep a coin; they throw away a flyer.
-- Scales from a few hundred to many thousands of pieces.
-- `{{FILL IN — notable clients, number of coins minted, reviews, awards}}`
+## Shipping (from the Oz Refining shipping graphic)
+- **Standard: $30 per box.** One box holds **up to 500 copper rounds**.
+- **2–5 days** travel time.
+- **Adult signature required** on delivery.
+- **Free standard shipping on orders of 2,000 rounds or more.**
+- Secure packaging.
+- Anything outside these terms (expedited, international, pallets, splitting boxes, unusual destinations) → "Freight will be confirmed before you make payment" and escalate. **Dallin** handles shipping details.
+- Note: the older Sales FAQ says freight is calculated per order. The shipping graphic is the newer published policy. `{{Nick: confirm the graphic is the current policy}}`
 
-## Primary call to action
-1. **Book a call with Nick Thurgood** → `{{FILL IN — booking link, e.g., Calendly}}`
-2. **DM us** on any social platform (Oz Bullion / Oz Mint accounts).
+## Available designs: 19 designs, dies already made
+Obverse/reverse pairings are shown on the design sheet. Offer only these designs:
 
-## Sender identity (used on all outreach and email drafts)
-- Name: **Nick Thurgood**
-- Title: `{{FILL IN — e.g., Sales Director, Oz Mint}}`
-- Email: `{{FILL IN — Nick's email}}`
-- Direct phone: `{{FILL IN}}`
-- Email signature:
+| Classic | Adventure / Luck | Military | America 250 | Trump series |
+|---|---|---|---|---|
+| Buffalo | Black Beard | Navy | Founding Fathers | Trump Mugshot |
+| Morgan | Kraken | Marines | Trump / Washington | Trump Bulletproof |
+| Walking Liberty | Mermaid | Air Force | Yankee Doodle | Trump Inauguration |
+| Atlas Shrugged | Lucky Clover | Army | | |
 
+- The Classic, Adventure, Military and most Trump rounds pair with a "USA" shield obverse. Founding Fathers, Trump/Washington and Yankee Doodle pair with an **"America 250"** obverse. Lucky Clover pairs with a horseshoe reverse.
+- **Never promise a design is available** in a specific quantity until Nick confirms. Send only designs and photos provided by Oz Refining.
+- Design sheet: `{{FILL IN — Google Drive link to the design sheet / photos}}`
+
+## Recurring buyers: what we may say (no approved incentive program yet)
+Recurring 30/60/90-day buyers *could potentially* get priority access to future runs, earlier access to new designs, more predictable inventory, preferred consideration on larger quantities, and **potential** volume pricing when order size supports it.
+**Never promise** discounts, free shipping beyond the policy above, exclusive designs, or guaranteed pricing.
+
+## Why dealers buy from us (true proof points only)
+- Made in America by an independent American mint, with no overseas outsourcing.
+- Low price point ($1.86 and up) → strong impulse item at the register, a gift, starter bullion, or a collectible for kids and new stackers.
+- 19 ready-to-strike designs, including patriotic, military, America 250, classic and Trump designs that sell to collectors.
+- Scales from 500 to 10,000+.
+- Pay near the end of October; soft commitments first.
+- `{{FILL IN — testimonials, number of dealers served, rounds sold}}`
+
+## Sender identity
+- **Nick Thurgood, Sales Representative, Oz Refining**
+- Email: `{{FILL IN — Nick's email}}` · Phone/text: `{{FILL IN}}`
+- Signature:
 ```
 Nick Thurgood
-{{Title}} | Oz Mint · Oz Bullion
-Custom copper, silver & gold — minted in Utah
-{{Phone}} · {{Booking link}}
-oz-mint.com · ozbullion.com
+Sales Representative | Oz Refining
+American-made copper rounds
+{{Phone}} · {{Email}} · ozrefining.com
 ```
 
+## Primary call to action
+**Tell us your quantity**: comment, DM, text or reply with how many rounds you want. Then **move them to a phone call with Nick** (get their phone number and a good time to call).
+
+## Internal team (for escalations; never name them to customers unless needed)
+- **Nick Thurgood**: sales
+- **Dallin**: shipping and freight details
+- **Oz Refining team**: invoicing and payment (they use Katana for inventory and orders; bots never touch it)
+
 ## Social accounts (connected through Zernio)
-`{{FILL IN — handle for each: X, Instagram, Facebook, LinkedIn, TikTok, YouTube, Threads, Pinterest, etc.}}`
+`{{FILL IN — handle for each: Facebook page, Instagram, X, TikTok, YouTube, LinkedIn, Threads, Pinterest, etc.}}`
